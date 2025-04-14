@@ -19,6 +19,7 @@
         "packageName": "PowerPlus",
         "price": 49.99,
         "description": "Perfect for regulars looking to add group classes and occasional personal training to their routine.",
+        "popular": true,
         "features": [
           "All FitStart features",
           "Unlimited group fitness classes",

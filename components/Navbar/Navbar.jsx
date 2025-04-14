@@ -16,7 +16,7 @@ const Navbar = () => {
     const [open, setOpen] = useState(false)
 
     return (
-        <nav className='flex justify-between items-center px-10 py-2 bg-gray-200'>
+        <nav className='flex justify-between items-center md:px-10 px-5 py-2 bg-gray-200'>
             <span className='flex ' onClick={()=> setOpen(!open)}>
                 {
                     open? <X className='md:hidden'></X> :<AlignLeft className='md:hidden'></AlignLeft>
@@ -36,7 +36,7 @@ const Navbar = () => {
                     links
                 }
             </ul>
-            <button className='btn btn-primary'>Sign in</button>
+            <button className='btn btn-success'>Sign in</button>
         </nav>
     );
 };
