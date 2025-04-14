@@ -1,0 +1,49 @@
+{
+    "gymPackages": [
+      {
+        "id": "GX1001",
+        "packageName": "FitStart",
+        "price": 29.99,
+        "description": "Ideal for newcomers who want access to essential gym equipment and a monthly fitness check-in.",
+        "features": [
+          "Access to gym equipment",
+          "Locker room access",
+          "1 fitness assessment per month",
+          "Access during staffed hours",
+          "Basic workout plan",
+          "Nutritional tips newsletter"
+        ]
+      },
+      {
+        "id": "GX2001",
+        "packageName": "PowerPlus",
+        "price": 49.99,
+        "description": "Perfect for regulars looking to add group classes and occasional personal training to their routine.",
+        "features": [
+          "All FitStart features",
+          "Unlimited group fitness classes",
+          "1 personal training session per month",
+          "Extended access hours (5am–11pm)",
+          "Body composition tracking",
+          "Access to mobile app with workout logs"
+        ]
+      },
+      {
+        "id": "GX3001",
+        "packageName": "EliteX",
+        "price": 79.99,
+        "description": "Designed for fitness lovers who want full access to training, recovery, and premium services.",
+        "features": [
+          "All PowerPlus features",
+          "Unlimited personal training sessions",
+          "Sauna and spa access",
+          "Priority booking for classes",
+          "24/7 gym access",
+          "Complimentary gym merchandise (towel, shaker)",
+          "Monthly 1-on-1 nutrition consultation",
+          "Guest passes (4 per month)"
+        ]
+      }
+    ]
+  }
+  

@@ -16,7 +16,7 @@ const Navbar = () => {
     const [open, setOpen] = useState(false)
 
     return (
-        <nav className='flex justify-between items-center mx-10 py-2'>
+        <nav className='flex justify-between items-center px-10 py-2 bg-gray-200'>
             <span className='flex ' onClick={()=> setOpen(!open)}>
                 {
                     open? <X className='md:hidden'></X> :<AlignLeft className='md:hidden'></AlignLeft>
